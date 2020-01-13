@@ -21,5 +21,8 @@
     "frontend/*",
     "frontend/ui/*",
     "frontend/utils/*"
-  ]
+  ],
+  "dependencies": {
+    "typescript": "^3.7.4"
+  }
 }
